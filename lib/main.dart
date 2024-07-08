@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
           child: Text(
             'Hello Dunia',
             style: TextStyle(
-                fontSize: 30, color: Colors.white, fontWeight: FontWeight.bold),
+                fontSize: 30, color: Colors.white, fontWeight: FontWeight.bold, backgroundColor: Colors.black26),
           ),
         ),
       ),
